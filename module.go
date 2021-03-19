@@ -1,4 +1,4 @@
-package BelajarGO
+package GO
 
 import "fmt"
 
